@@ -326,7 +326,7 @@ iconfont: //at.alicdn.com/t/font_1736178_lbnruvf0jn.css
 navbar:
   # 导航栏左侧的标题，为空则按 hexo config 中 `title` 显示
   # The title on the left side of the navigation bar. If empty, it is based on `title` in hexo config
-  blog_title: "神奇妙妙ㄝ輝煌伺服器A.K.A官網的啦（？）"
+  blog_title: "神奇妙妙ㄝ輝煌伺服器A.K.A官網的啦（？）<img src=“https://media.discordapp.net/attachments/949275617520660490/986589108086403092/title_edu.png”></img>"
 
   # 导航栏毛玻璃特效，实验性功能，可能会造成页面滚动掉帧和抖动，部分浏览器不支持会自动不生效
   # Navigation bar frosted glass special animation. It is an experimental feature
@@ -470,7 +470,7 @@ index:
   # 头图黑色蒙版的不透明度，available: 0 - 1.0， 1 是完全不透明
   # Opacity of the banner mask, 1.0 is completely opaque
   # Available: 0 - 1.0
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
 
   # 首页副标题的独立设置
   # Independent config of home page subtitle
@@ -534,7 +534,7 @@ index:
 post:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
@@ -888,7 +888,7 @@ giscus:
 archive:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
 
 
 #---------------------------
@@ -899,7 +899,7 @@ category:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
 
   # 分类的排序字段，前面带减号是倒序，不带减号是正序
   # Sort field for categories, with a minus sign is reverse order
@@ -928,7 +928,7 @@ tag:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
   tagcloud:
     min_font: 15
     max_font: 30
@@ -945,7 +945,7 @@ about:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
   avatar: https://media.discordapp.net/attachments/949275617520660490/986589107792773210/1653318260408.png
   name: "輝煌伺服器"
   intro: "Minecraft Server."
@@ -969,7 +969,7 @@ about:
 page:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
 
 
 #---------------------------
@@ -980,7 +980,7 @@ page404:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986598765051932712/AddText_06-15-07.51.01.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
   # 重定向到首页的延迟(毫秒)
   # Delay in redirecting to home page (milliseconds)
   redirect_delay: 5000
@@ -994,7 +994,7 @@ links:
   enable: false
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
-  banner_mask_alpha: 0.1
+  banner_mask_alpha: 1
   # 友链的成员项
   # Member item of page
   items:
