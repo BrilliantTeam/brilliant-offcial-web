@@ -425,7 +425,11 @@ footer:
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
     <a href="https://www.brilliantw.net/版權聲明" target="_blank" rel="nofollow noopener"><span>版權聲明</span></a>
+    &emsp;
+    &emsp;
     <a href="https://www.brilliantw.net/政策條款" target="_blank" rel="nofollow noopener"><span>隱私政策</span></a>
+    &emsp;
+    &emsp;
     <a href="https://www.brilliantw.net/服務條款" target="_blank" rel="nofollow noopener"><span>服務條款</span></a>
   '
 
