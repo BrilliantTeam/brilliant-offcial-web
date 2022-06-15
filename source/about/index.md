@@ -46,7 +46,7 @@ date: 2022-06-11 16:17:50
 
  # 相關連結
 
-- 官方網站: 暫無
+- 官方網站: https://www.brilliantw.net/
 
 - Discord: https://discord.gg/5MHGpAFGEN
 
