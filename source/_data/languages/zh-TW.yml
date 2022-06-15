@@ -14,7 +14,7 @@ archive:
 
   subtitle: '一些有關輝煌伺服器的資訊'
 
-  post_total: '共有 %d 篇資訊'
+  post_total: '共有 %d 項資訊'
 
 category:
 
@@ -24,7 +24,7 @@ category:
 
   subtitle: '一些資訊的分類'
 
-  post_total: '共有 %d 篇文章'
+  post_total: '共有 %d 項資訊'
 
   more: 'More...'
 
@@ -36,7 +36,7 @@ tag:
 
   subtitle: '資訊中的一些標籤'
 
-  post_total: '共有 %d 篇文章'
+  post_total: '共有 %d 項資訊'
 
 about:
 
