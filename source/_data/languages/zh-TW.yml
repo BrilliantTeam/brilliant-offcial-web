@@ -12,9 +12,9 @@ archive:
 
   title: '一些有關輝煌伺服器的資訊'
 
-  subtitle: 'by. Brilliant.'
+  subtitle: '一些有關輝煌伺服器的資訊'
 
-  post_total: '共有 %d 篇文章'
+  post_total: '共有 %d 篇資訊'
 
 category:
 
@@ -22,7 +22,7 @@ category:
 
   title: '一些資訊的分類'
 
-  subtitle: 'by. Brilliant.'
+  subtitle: '一些資訊的分類'
 
   post_total: '共有 %d 篇文章'
 
@@ -34,7 +34,7 @@ tag:
 
   title: '資訊中的一些標籤'
 
-  subtitle: 'by. Brilliant.'
+  subtitle: '資訊中的一些標籤'
 
   post_total: '共有 %d 篇文章'
 
@@ -58,9 +58,9 @@ page404:
 
   menu: '神奇的飯娘修但積累空間'
 
-  title: '這裡是個不存在的頁面，你點進來幹嘛？'
+  title: '修但積累'
 
-  subtitle: 'by. Brilliant.'
+  subtitle: '這裡是個不存在的頁面，你的點進來幹嘛？'
 
 post:
 
