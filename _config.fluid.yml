@@ -885,7 +885,7 @@ giscus:
 # 归档页
 # Archive Page
 #---------------------------
-資訊:
+archives:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
   banner_mask_alpha: 0.3
@@ -895,7 +895,7 @@ giscus:
 # 分类页
 # Category Page
 #---------------------------
-分類:
+categories:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
@@ -924,7 +924,7 @@ giscus:
 # 标签页
 # Tag Page
 #---------------------------
-標籤:
+tags:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
@@ -941,7 +941,7 @@ giscus:
 # 关于页
 # About Page
 #---------------------------
-關於:
+about:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
