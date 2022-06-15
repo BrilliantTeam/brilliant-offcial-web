@@ -424,9 +424,6 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"><span><br>伺服器狀態圖</span></a>
-    <br>
-    <br>
     <a href="https://www.brilliantw.net/版權聲明" target="_blank" rel="nofollow noopener"><span>版權聲明</span></a>
     &emsp;
     &emsp;
