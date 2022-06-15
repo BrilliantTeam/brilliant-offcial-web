@@ -465,7 +465,7 @@ index:
   # 头图高度，屏幕百分比
   # Height ratio of banner image
   # Available: 0 - 100
-  banner_img_height: 100
+  banner_img_height: 1
 
   # 头图黑色蒙版的不透明度，available: 0 - 1.0， 1 是完全不透明
   # Opacity of the banner mask, 1.0 is completely opaque
@@ -533,7 +533,7 @@ index:
 #---------------------------
 post:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 10/
+  banner_img_height: 100
   banner_mask_alpha: 0.3
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
@@ -885,7 +885,7 @@ giscus:
 # 归档页
 # Archive Page
 #---------------------------
-archive:
+資訊:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
   banner_mask_alpha: 0.3
@@ -895,7 +895,7 @@ archive:
 # 分类页
 # Category Page
 #---------------------------
-category:
+分類:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
@@ -924,7 +924,7 @@ category:
 # 标签页
 # Tag Page
 #---------------------------
-tag:
+標籤:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
@@ -941,7 +941,7 @@ tag:
 # 关于页
 # About Page
 #---------------------------
-about:
+關於:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
   banner_img_height: 100
