@@ -104,11 +104,12 @@ theme: fluid
 deploy:
   type: ''
 
-# Security
-encrypt: # hexo-blog-encrypt
-  abstract: 需要密碼才能閱讀該文章.
-  message: 需要密碼才能閱讀該文章.
-  tags: []
-  theme: blink
-  wrong_pass_message: 密碼無效.
-  wrong_hash_message: 無法驗證該文檔有效性.
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: ./sitemap_template.xml
+  template_txt: ./sitemap_template.txt
+  rel: false
+  tags: true
+  categories: true
