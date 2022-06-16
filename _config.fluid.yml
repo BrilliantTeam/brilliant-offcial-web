@@ -346,8 +346,7 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: "首頁", link: "/", icon: "iconfont icon-home-fill" }
-    - { key: "資訊", link: "/archives/", icon: "iconfont icon-archive-fill" }
-    - { key: "分類", link: "/categories/", icon: "iconfont icon-category-fill" }
+    - { key: "資訊", link: "/categories/", icon: "iconfont icon-category-fill" }
     - { key: "贊助", link: "/贊助資訊/", icon: "iconfont icon-bookmark-fill", name: "" }
     #- { key: "標籤", link: "/tags/", icon: "iconfont icon-tags-fill" }
     - { key: "關於", link: "/about/", icon: "iconfont icon-user-fill" }
@@ -433,7 +432,7 @@ footer:
     <a href="https://www.brilliantw.net/政策條款" target="_blank" rel="nofollow noopener"><span>隱私政策</span></a>
     &emsp;&emsp;
     <a href="https://www.brilliantw.net/服務條款" target="_blank" rel="nofollow noopener"><span>服務條款</span></a>
-    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><a>你知道嗎？輝煌官網有用到三角函數與線性函數這兩個擊敗東西</a>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><a>你以為有東西？</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><a>別滑了，真的沒有</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><a>也許..？</a><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><a>其實你知道嗎？輝煌官網有用到三角函數與線性函數這兩個擊敗東西</a>
   '
 
   # 展示网站的 PV、UV 统计数
