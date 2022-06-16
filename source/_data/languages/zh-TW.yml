@@ -42,9 +42,17 @@ about:
 
   menu: '關於'
 
-  title: '有關輝煌伺服器的一些資訊'
+  title: '關於'
 
   subtitle: '有關輝煌伺服器的一些資訊'
+  
+贊助須知:
+
+  menu: '贊助'
+
+  title: '贊助'
+
+  subtitle: '有關輝煌伺服器的贊助資訊'
 
 links:
 
