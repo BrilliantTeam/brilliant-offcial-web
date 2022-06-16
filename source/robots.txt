@@ -7,25 +7,4 @@ Disallow: /vendors/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: /sitemap.xml
-
-User-agent: ApacheBench
-Disallow: /
-
-User-agent: pingback
-Disallow: /
-
-User-agent: YisouSpider
-Disallow: /
-
-User-agent: MJ12bot
-Disallow: /
-
-User-agent: AhrefsBot
-Disallow: /
-
-User-agent: 360JK
-Disallow: /
-
-User-agent: Jorgee
-Disallow: /
+Sitemap: https://www.brilliantw.net/sitemap.xml
