@@ -469,7 +469,7 @@ index:
   # 头图高度，屏幕百分比
   # Height ratio of banner image
   # Available: 0 - 100
-  banner_img_height: 100
+  banner_img_height: 60
 
   # 头图黑色蒙版的不透明度，available: 0 - 1.0， 1 是完全不透明
   # Opacity of the banner mask, 1.0 is completely opaque
@@ -537,7 +537,7 @@ index:
 #---------------------------
 post:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 100
+  banner_img_height: 60
   banner_mask_alpha: 0.6
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
@@ -891,7 +891,7 @@ giscus:
 #---------------------------
 archive:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 100
+  banner_img_height: 69
   banner_mask_alpha: 0.6
 
 
@@ -902,7 +902,7 @@ archive:
 category:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 100
+  banner_img_height: 60
   banner_mask_alpha: 0.6
 
   # 分类的排序字段，前面带减号是倒序，不带减号是正序
@@ -931,7 +931,7 @@ category:
 tag:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 100
+  banner_img_height: 60
   banner_mask_alpha: 0.6
   tagcloud:
     min_font: 15
@@ -948,7 +948,7 @@ tag:
 about:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 100
+  banner_img_height: 60
   banner_mask_alpha: 0.6
   avatar: https://media.discordapp.net/attachments/949275617520660490/986589107792773210/1653318260408.png
   name: "輝煌伺服器"
@@ -972,7 +972,7 @@ about:
 #---------------------------
 page:
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 100
+  banner_img_height: 60
   banner_mask_alpha: 0.6
 
 
@@ -983,7 +983,7 @@ page:
 page404:
   enable: true
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986598765051932712/AddText_06-15-07.51.01.png
-  banner_img_height: 100
+  banner_img_height: 60
   banner_mask_alpha: 0.6
   # 重定向到首页的延迟(毫秒)
   # Delay in redirecting to home page (milliseconds)
@@ -997,7 +997,7 @@ page404:
 links:
   enable: false
   banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
-  banner_img_height: 100
+  banner_img_height: 60
   banner_mask_alpha: 0.6
   # 友链的成员项
   # Member item of page
