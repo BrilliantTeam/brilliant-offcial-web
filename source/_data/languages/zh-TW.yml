@@ -10,19 +10,19 @@ archive:
 
   menu: '資訊'
 
-  title: '一些有關輝煌伺服器的資訊'
+  title: '資訊'
 
-  subtitle: '一些有關輝煌伺服器的資訊'
+  subtitle: '一大堆有的沒的資訊'
 
   post_total: '共有 %d 項資訊'
 
 category:
 
-  menu: '分類'
+  menu: '資訊'
 
-  title: '一些資訊的分類'
+  title: '資訊'
 
-  subtitle: '一些資訊的分類'
+  subtitle: '一大堆有的沒的資訊'
 
   post_total: '共有 %d 項資訊'
 
@@ -32,7 +32,7 @@ tag:
 
   menu: '標籤'
 
-  title: '資訊中的一些標籤'
+  title: '標籤'
 
   subtitle: '資訊中的一些標籤'
 
