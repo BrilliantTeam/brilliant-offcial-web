@@ -424,6 +424,10 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
+    <span>伺服器狀態</span>
+    <br>
+    <a href="https://minecraft-mp.com/server-s298059" target="_blank"><img src="https://minecraft-mp.com/half-banner-298059.png" border="0"></a>
+    <br>
     <a href="https://www.brilliantw.net/版權聲明" target="_blank" rel="nofollow noopener"><span>版權聲明</span></a>
     &emsp;
     &emsp;
