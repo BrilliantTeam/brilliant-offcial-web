@@ -1,13 +1,13 @@
 ---
-title: 政策條款
-layout: 政策條款
-excerpt: 有關於輝煌團隊與輝煌伺服器的政策條款
+title: 隱私政策
+layout: 隱私政策
+excerpt: 有關於輝煌團隊與輝煌伺服器的隱私政策
 date: 2022-01-02 00:00
 categories: 重要資訊
 tags: 重要資訊
 ---
 
-# 政策條款
+# 隱私政策
 
 ![](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
 
