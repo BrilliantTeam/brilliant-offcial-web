@@ -426,8 +426,7 @@ footer:
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
     <span>伺服器狀態</span><br>
-    <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/brilliantw.net/embed" width="100" height="40"></iframe>
-    <br>
+    <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/brilliantw.net/embed" width="728" height="120"></iframe>
     <a href="https://www.brilliantw.net/版權聲明" target="_blank" rel="nofollow noopener"><span>版權聲明</span></a>
     &emsp;&emsp;
     <a href="https://www.brilliantw.net/政策條款" target="_blank" rel="nofollow noopener"><span>隱私政策</span></a>
