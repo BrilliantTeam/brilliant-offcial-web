@@ -403,7 +403,7 @@ scroll_down_arrow:
 # 向顶部滚动的箭头
 # Scroll top arrow
 scroll_top_arrow:
-  enable: true
+  enable: false
 
 # Open Graph metadata
 # See: https://hexo.io/docs/helpers.html#open-graph
