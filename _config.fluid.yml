@@ -434,6 +434,7 @@ footer:
     <a href="https://www.brilliantw.net/隱私政策" target="_blank" rel="nofollow noopener"><span>隱私政策</span></a>
     &emsp;&emsp;
     <a href="https://www.brilliantw.net/服務條款" target="_blank" rel="nofollow noopener"><span>服務條款</span></a>
+  '
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
   statistics:
