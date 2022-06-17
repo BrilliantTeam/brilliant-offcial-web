@@ -78,7 +78,7 @@ post:
 
   next_post: '下一篇'
 
-  updated: '本文最後更新於：%s'
+  updated: '本資訊最後更新於：%s'
 
   meta:
 
