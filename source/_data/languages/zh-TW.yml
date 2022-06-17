@@ -72,13 +72,13 @@ page404:
 
 post:
 
-  toc: '目錄'
+  toc: '快捷目錄'
 
   prev_post: '上一篇'
 
   next_post: '下一篇'
 
-  updated: '本資訊最後更新於：%s'
+  updated: '本資訊最後更新於 : %s'
 
   meta:
 
