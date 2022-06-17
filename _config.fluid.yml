@@ -538,7 +538,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -949,7 +949,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181234593802/2022-04-06_23.49.23.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
   avatar: https://media.discordapp.net/attachments/949275617520660490/986589107792773210/1653318260408.png
