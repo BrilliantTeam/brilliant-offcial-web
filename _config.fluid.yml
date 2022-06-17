@@ -434,6 +434,12 @@ footer:
       width="100%"
       height="600"
     ></widgetbot>
+    <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>   
+      new Crate({
+        server: '762627112867725403',
+        channel: '971746021262630962'
+    })
+    </script>
     <script src="https://cdn.jsdelivr.net/npm/@widgetbot/html-embed"></script>
     <a href="https://discord.com/invite/5MHGpAFGEN" target="_blank" rel="nofollow noopener"><span>聯絡我們</span></a>
     &emsp;&emsp;
