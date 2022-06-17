@@ -466,7 +466,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987290611143024710/2-1.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
