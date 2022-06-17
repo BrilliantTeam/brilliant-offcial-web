@@ -427,6 +427,12 @@ footer:
   content: '
     <span>伺服器狀態</span><br>
     <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/brilliantw.net/embed" width="728" height="120"></iframe>
+    <script src='https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' async defer>
+    new Crate({
+    server: '762627112867725403', // 輝煌 Minecraft 生存伺服器
+    channel: '971746021262630962' // #💬︱伺服事務
+    })
+    </script><br>
     <a href="https://discord.com/invite/5MHGpAFGEN" target="_blank" rel="nofollow noopener"><span>聯絡我們</span></a>
     &emsp;&emsp;
     <a href="https://www.brilliantw.net/版權聲明" target="_blank" rel="nofollow noopener"><span>版權聲明</span></a>
