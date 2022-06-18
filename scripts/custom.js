@@ -13,4 +13,4 @@ hexo.extend.injector.register('body_end', <script src="https://cdn.jsdelivr.net/
       timeout: 1000
     })
   }, 1500)
-</script>
+</script>`, 'default');
