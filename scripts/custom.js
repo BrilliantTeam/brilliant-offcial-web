@@ -1,4 +1,4 @@
-hexo.extend.injector.register('body_end', <script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
+hexo.extend.injector.register('body_end', `<script src="https://cdn.jsdelivr.net/npm/@widgetbot/crate@3" async defer>
   const button = new Crate({
     server: '762627112867725403',
     channel: '914360488723382352',
