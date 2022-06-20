@@ -346,9 +346,10 @@ navbar:
   # Navigation bar menu. `key` is used to associate languages/*.yml. If there is no association, the value of `key` itself will be displayed; if `icon` is a css class, it can be omitted; adding `name` can force the display of the specified name
   menu:
     - { key: "首頁", link: "/", icon: "iconfont icon-home-fill" }
-    - { key: "教學", link: "/指令教學/", icon: "iconfont icon-book", name: "" }
-    - { key: "贊助", link: "/贊助資訊/", icon: "iconfont icon-bookmark-fill", name: "" }
-    - { key: "關於", link: "/about/", icon: "iconfont icon-user-fill" }
+    - { key: "服規", link: "/伺服守則/", icon: "iconfont icon-book" }
+    - { key: "教學", link: "/指令教學/", icon: "iconfont icon-books" }
+    - { key: "贊助", link: "/贊助資訊/", icon: "iconfont icon-bookmark-fill" }
+    - { key: "關於", link: "/關於我們/", icon: "iconfont icon-user-fill" }
     - { key: "資訊", link: "/categories/", icon: "iconfont icon-category-fill" }
     #- { key: "標籤", link: "/tags/", icon: "iconfont icon-tags-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
