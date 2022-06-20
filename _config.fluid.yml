@@ -895,7 +895,7 @@ giscus:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/971065050154561586/2022-05-03_23.05.34.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -906,7 +906,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/971065050154561586/2022-05-03_23.05.34.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -935,7 +935,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/971065050154561586/2022-05-03_23.05.34.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
   tagcloud:
@@ -976,7 +976,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -1001,7 +1001,7 @@ page404:
 #---------------------------
 links:
   enable: false
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/986590944285564938/2022-04-30_18.47.07.png
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
   # 友链的成员项
