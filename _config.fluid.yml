@@ -410,7 +410,7 @@ scroll_top_arrow:
 # See: https://hexo.io/docs/helpers.html#open-graph
 open_graph:
   enable: true
-  twitter_card: summary_large_image
+  twitter_card: summary
   twitter_id:
   twitter_site:
   google_plus:
