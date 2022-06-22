@@ -10,6 +10,7 @@ keywords: [Minecraft, 當個創世神, 麥塊, 我的世界, 伺服器, 輝煌, 
 author: 輝煌伺服器
 language: zh-TW
 timezone: 'Asia/Taipei'
+theme_color: '#BBDDF6'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
