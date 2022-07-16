@@ -18,11 +18,11 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: https://media.discordapp.net/attachments/949275617520660490/986589107792773210/1653318260408.png
+favicon: https://cdn.discordapp.com/attachments/596718421966716928/997889929898119198/AddText_07-16-11.38.01.png
 
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: https://media.discordapp.net/attachments/949275617520660490/986589107792773210/1653318260408.png
+apple_touch_icon: https://cdn.discordapp.com/attachments/596718421966716928/997889929898119198/AddText_07-16-11.38.01.png
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
