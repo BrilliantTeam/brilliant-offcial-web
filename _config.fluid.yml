@@ -427,7 +427,9 @@ footer:
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
     <span>伺服器狀態</span><br>
-    <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/brilliantw.net/embed" width="728" height="120"></iframe
+    <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/brilliantw.net/embed" width="728" height="120"></iframe>
+    <span>為伺服器投票吧！(每天可投一次)</span><br>
+    <script src="https://minecraft-mp.com/embed.js?id=298059&type=votes&size=normal"></script><br>
     <a href="https://discord.com/invite/5MHGpAFGEN" target="_blank" rel="nofollow noopener"><span>聯絡我們</span></a>
     &emsp;
     <a href="https://www.brilliantw.net/版權聲明" target="_blank" rel="nofollow noopener"><span>版權聲明</span></a>
