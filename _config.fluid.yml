@@ -988,7 +988,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/949275617520660490/986598765051932712/AddText_06-15-07.51.01.png
+  banner_img: https://cdn.discordapp.com/attachments/1014171061530656778/1015535917580177468/AddText_09-03-04.16.46.png
   banner_img_height: 100
   banner_mask_alpha: 0.6
   # 重定向到首页的延迟(毫秒)
