@@ -3,6 +3,6 @@
     src: url('/Minecraft.ttf'); /*URL to font*/
 }
 
-div {
+body {
     font-family: 'Minecraft';
 }
