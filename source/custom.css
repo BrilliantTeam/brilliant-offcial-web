@@ -1,8 +1,0 @@
-@font-face {
-    font-family: 'Minecraft'; /*a name to be used later*/
-    src: url('/Minecraft.ttf'); /*URL to font*/
-}
-
-div p {
-    font-family: 'Minecraft';
-}
