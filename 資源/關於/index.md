@@ -9,7 +9,7 @@ date: 2022-06-11 16:17:50
 ![](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
-> 輝煌伺服器創立於2022年1月2日，是一個挺養老的生存與建築伺服器，
+> 輝煌伺服器創立於2022年1月2日，是一個挺養老的生存伺服器，
 
 > 
 
