@@ -9,7 +9,7 @@ date: 2022-06-11 16:17:50
 ![](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
 <a href="https://www.mc-list.xyz/843/info" target="_blank"><img src="https://www.mc-list.xyz/banner/1-843.png" border="0"></a>
 
-> 輝煌伺服器創立於2022年1月2日，是一個挺養老的生存伺服器，
+> 輝煌伺服器創立於2021年1月22日，是一個挺養老的生存伺服器，
 
 > 
 
@@ -31,13 +31,13 @@ date: 2022-06-11 16:17:50
 
 - Bedrock 連線端口: ` 19132 `
 
-- Java 連線版本: ` 1.19.2`
+- Java 連線版本: ` `
 
-- Bedrock 連線版本: ` 1.19.20 ~ 1.19.51 `
+- Bedrock 連線版本: `  `
 
-- Server 運行機制: ` Java 1.19.2 `
+- Server 運行機制: `  `
 
-- Server 人數上限: ` 140 `
+- Server 人數上限: `  `
 
 - Server 正版驗證: ` 開啟 `
 
