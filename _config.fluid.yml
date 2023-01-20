@@ -347,7 +347,6 @@ navbar:
     - { key: "首頁", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "服規", link: "/伺服守則/", icon: "iconfont icon-book" }
     - { key: "指令", link: "/指令教學/", icon: "iconfont icon-books" }
-    - { key: "技能", link: "/技能教學/", icon: "iconfont icon-codeforces" }
     - { key: "贊助", link: "/贊助資訊/", icon: "iconfont icon-bookmark-fill" }
     - { key: "關於", link: "/關於輝煌/", icon: "iconfont icon-user-fill" }
     - { key: "其它", link: "/categories/", icon: "iconfont icon-category-fill" }
