@@ -535,7 +535,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://media.discordapp.net/attachments/1066371739069714462/1081970214675157123/2023-01-02_22.51.25.png?width=1441&height=388
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -889,7 +889,7 @@ giscus:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: https://media.discordapp.net/attachments/1066371739069714462/1081970214675157123/2023-01-02_22.51.25.png?width=1441&height=388
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -900,7 +900,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/1066371739069714462/1081970214675157123/2023-01-02_22.51.25.png?width=1441&height=388
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -929,7 +929,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/1066371739069714462/1081970214675157123/2023-01-02_22.51.25.png?width=1441&height=388
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
   tagcloud:
@@ -946,7 +946,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/1066371739069714462/1081970214675157123/2023-01-02_22.51.25.png?width=1441&height=388
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
   avatar: https://cdn.discordapp.com/attachments/1066371739069714462/1081971645067034645/AddText_09-23-10.45.55.png
@@ -970,7 +970,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: https://media.discordapp.net/attachments/1066371739069714462/1081970214675157123/2023-01-02_22.51.25.png?width=1441&height=388
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
 
@@ -995,7 +995,7 @@ page404:
 #---------------------------
 links:
   enable: false
-  banner_img: https://media.discordapp.net/attachments/1066371739069714462/1081970214675157123/2023-01-02_22.51.25.png?width=1441&height=388
+  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
   # 友链的成员项
