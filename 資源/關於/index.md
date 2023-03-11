@@ -82,6 +82,8 @@ date: 2022-06-11 16:17:50
 
 - 技務士- [` 達斯 `](https://github.com/DasCrystal)
 
+- 技務士- [` MinecraftPEayer `](https://github.com/MinecraftPEayer)
+
 - 協務士- ` 沙鼠 `
 
 - 協務士- ` 虎鯨 `
