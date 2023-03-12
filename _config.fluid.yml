@@ -1003,7 +1003,7 @@ links:
   items:
     - {
       title: "RPMTW",
-      intro: "RPMTW是一個致力於推廣Minecraft中文社群，並開發相關實用工具的團隊",
+      intro: "致力於推廣麥快中文社群，並開發相關實用工具的團隊",
       link: "https://www.rpmtw.com/",
       avatar: "/img/favicon.png"
     }
