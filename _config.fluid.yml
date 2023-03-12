@@ -349,17 +349,20 @@ navbar:
     - { key: "指令", link: "/指令教學/", icon: "iconfont icon-books" }
     - { key: "贊助", link: "/贊助資訊/", icon: "iconfont icon-bookmark-fill" }
     - { key: "關於", link: "/關於輝煌/", icon: "iconfont icon-user-fill" }
-    - { key: "總覽", link: "/categories/", icon: "iconfont icon-category-fill" }
+    - { key: "總覽", link: "/categories/", icon: "iconfont icon-link-fill" }
     #- { key: "標籤", link: "/tags/", icon: "iconfont icon-tags-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
     - {
       key: '其他',
-      icon: 'iconfont icon-books',
+      icon: 'iconfont icon-category-fill',
       link: '#',
       submenu: [
       { key: '服務條款', link: 'https://www.brilliantw.net/服務條款' },
       { key: '隱私政策', link: 'https://www.brilliantw.net/隱私政策' },
-      { key: '版權聲明', link: 'https://www.brilliantw.net/版權聲明' }
+      { key: '版權聲明', link: 'https://www.brilliantw.net/版權聲明' },
+      { key: '合作夥伴', link: 'https://www.brilliantw.net/links' },
+      { key: '加入輝煌', link: 'https://www.brilliantw.net/成員招募' },
+      { key: '聯絡我們', link: 'https://discord.com/invite/5MHGpAFGEN' }
       ]
     }
 
