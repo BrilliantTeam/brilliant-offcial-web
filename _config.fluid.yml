@@ -1002,23 +1002,30 @@ links:
   # Member item of page
   items:
     - {
-      title: "Fluid Blog",
-      intro: "主题博客",
-      link: "https://hexo.fluid-dev.com/",
+      title: "RPMTW",
+      intro: "RPMTW是一個致力於推廣Minecraft中文社群，並開發相關實用工具的團隊",
+      link: "https://www.rpmtw.com/",
       avatar: "/img/favicon.png"
     }
     - {
-      title: "Fluid Docs",
-      intro: "主题使用指南",
-      link: "https://hexo.fluid-dev.com/docs/",
+      title: "Minecraft TOP",
+      intro: "麥塊伺服器查詢系統",
+      link: "https://vproxy.cloud/",
       avatar: "/img/favicon.png"
     }
     - {
-      title: "Fluid Repo",
-      intro: "主题 GitHub 仓库",
+      title: "vProxy Cloud",
+      intro: "抗DDoS攻擊服務",
       link: "https://github.com/fluid-dev/hexo-theme-fluid",
       avatar: "/img/favicon.png"
     }
+    - {
+      title: "創世聯邦 Cartoland",
+      intro: "Minecraft 地圖製作者聚集地",
+      link: " https://discord.gg/UMYxwHyRNE",
+      avatar: "/img/favicon.png"
+    }
+
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
@@ -1028,7 +1035,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '<hr><p>在下方留言申请加入我的友链，按如下格式提供信息：</p><ul><li>博客名：Fluid</li><li>简介：Fluid 主题官方博客</li><li>链接：https://hexo.fluid-dev.com</li><li>图片：https://hexo.fluid-dev.com/img/favicon.png</li></ul>'
+    content: '<hr><p>成為合作伙伴：</p><ul><li>但為確保合作項目的完整性及達到互利的效果</li><li>敝方希望您在聯絡敝方前，先準備好一些您想合作的項目</li><li>並透過 admin@brilliantw.net 聯絡敝方時，簡單介紹欲合作項目。</li><li></li><li>在收到以上的資料後，</li><li>敝方有關的管理人員也會因應您提案的企劃進行細閱及了解狀況，</li><li>從而決定會否存在合作的可行性。</li><li> </li><li>簡單來說就是，</li><li>還請您先讓敝方知道您的想合作的項目有什麼與別不同之處的介紹一下</li><li>您想合作的項目、期待的合作方式、以及提案實行的方針。</li><li> </li><li>並傳送電子郵件至 admin@brilliantw.net 聯絡敝方。</li></ul>'
 
   # 评论插件
   # Comment plugin
