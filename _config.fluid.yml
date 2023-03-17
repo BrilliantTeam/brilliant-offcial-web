@@ -346,7 +346,27 @@ navbar:
   menu:
     - { key: "首頁", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "服規", link: "/伺服守則/", icon: "iconfont icon-book" }
-    - { key: "指令", link: "/指令教學/", icon: "iconfont icon-books" }
+    - {
+      key: '服規',
+      icon: 'iconfont icon-book',
+      link: '#',
+      submenu: [
+      { key: '1. 請勿使用外掛', link: 'https://www.brilliantw.net/指令教學/#1-請勿使用外掛' },
+      { key: '2. 請勿冒犯他人', link: 'https://www.brilliantw.net/指令教學/#2-請勿冒犯他人' },
+      { key: '3. 請勿破壞建築', link: 'https://www.brilliantw.net/指令教學/#3-請勿破壞建築' },
+      { key: '4. 請勿偷竊物資', link: 'https://www.brilliantw.net/指令教學/#4-請勿偷竊物資' },
+      { key: '5. 請勿擊打玩家', link: 'https://www.brilliantw.net/指令教學/#5-請勿擊打玩家' },
+      { key: '6. 請勿利用漏洞', link: 'https://www.brilliantw.net/指令教學/#6-請勿利用漏洞' },
+      { key: '7. 請勿影響他人遊玩權益', link: 'https://www.brilliantw.net/指令教學/#7-請勿影響他人遊玩權益' },
+      { key: '7-1. 子規範 - 紅石', link: 'https://www.brilliantw.net/指令教學/#7-1-子規範-紅石' },
+      { key: '7-2. 子規範 - 子帳戶', link: 'https://www.brilliantw.net/指令教學/#7-2-子規範-子帳戶' },
+      { key: '7-3. 子規範 - 頻道使用', link: 'https://www.brilliantw.net/指令教學/#7-3-子規範-頻道使用' },
+      { key: '7-4. 子規範 - 無領地權益', link: 'https://www.brilliantw.net/指令教學/#7-4-子規範-無領地權益' },
+      { key: '其它. 處分相關程度', link: 'https://www.brilliantw.net/指令教學/#其它-處分相關程度' },
+      { key: '其它. 發放全服補償禮包之標準', link: 'https://www.brilliantw.net/指令教學/#其它-發放全服補償禮包之標準' },
+      { key: '其它. 玩家建築被破壞、偷竊之補償標準', link: 'https://www.brilliantw.net/指令教學/#其它-玩家建築被破壞、偷竊之補償標準' },
+      ]
+    }
     - {
       key: '教學',
       icon: 'iconfont icon-books',
@@ -359,8 +379,29 @@ navbar:
       { key: '遊戲內頻道相關指令', link: 'https://www.brilliantw.net/指令教學/#04-頻道指令' }
       ]
     }
-    - { key: "贊助", link: "/贊助資訊/", icon: "iconfont icon-bookmark-fill" }
-    - { key: "關於", link: "/關於輝煌/", icon: "iconfont icon-user-fill" }
+    - {
+      key: '贊助',
+      icon: 'iconfont icon-bookmark-fill',
+      link: '#',
+      submenu: [
+      { key: '資金使用', link: 'https://www.brilliantw.net/贊助資訊/#資金使用' },
+      { key: '贊助福利', link: 'https://www.brilliantw.net/贊助資訊/#贊助福利' },
+      { key: '付款方式', link: 'https://www.brilliantw.net/贊助資訊/#付款方式' },
+      { key: '贊助須知', link: 'https://www.brilliantw.net/贊助資訊/#贊助須知' },
+      { key: '立即贊助', link: 'https://www.brilliantw.net/贊助資訊/#贊助輝煌伺服器' }
+      ]
+    }
+    - {
+      key: '關於',
+      icon: 'iconfont icon-user-fill',
+      link: '#',
+      submenu: [
+      { key: '基本資訊', link: 'https://www.brilliantw.net/關於輝煌/#基本資訊' },
+      { key: '相關連結', link: 'https://www.brilliantw.net/關於輝煌/#相關連結' },
+      { key: '團隊資訊', link: 'https://www.brilliantw.net/關於輝煌/#團隊資訊' },
+      { key: '加入團隊', link: 'https://www.brilliantw.net/成員招募' }
+      ]
+    }
     - { key: "總覽", link: "/categories/", icon: "iconfont icon-link-fill" }
     #- { key: "標籤", link: "/tags/", icon: "iconfont icon-tags-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
