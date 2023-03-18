@@ -375,8 +375,7 @@ navbar:
       { key: '連結 Discord 帳號', link: 'https://www.brilliantw.net/指令教學/#01-連結帳號' },
       { key: '方塊查詢指令（基礎）', link: 'https://www.brilliantw.net/指令教學/#02-方塊查詢' },
       { key: '方塊查詢指令（進階）', link: 'https://www.brilliantw.net/指令教學/#03-進階查詢' },
-      { key: '遊戲內頻道相關指令', link: 'https://www.brilliantw.net/指令教學/#04-頻道指令' },
-      { key: '終界箱擴展', link: 'https://www.brilliantw.net/指令教學/#05-終界箱擴展' }
+      { key: '遊戲內頻道相關指令', link: 'https://www.brilliantw.net/指令教學/#04-頻道指令' }
       ]
     }
     - {
