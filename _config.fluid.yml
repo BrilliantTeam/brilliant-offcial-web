@@ -349,6 +349,7 @@ navbar:
       icon: 'iconfont icon-home-fill',
       link: '#',
       submenu: [
+      { key: '回到首頁', link: 'https://www.brilliantw.net/' },
       { key: '伺服守則', link: 'https://www.brilliantw.net/伺服守則' },
       { key: '遊戲教學', link: 'https://www.brilliantw.net/指令教學' },
       { key: '贊助輝煌', link: 'https://www.brilliantw.net/贊助資訊' },
