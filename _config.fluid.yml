@@ -346,6 +346,17 @@ navbar:
   menu:
     - { key: "首頁", link: "/", icon: "iconfont icon-home-fill" }
     - {
+      key: '首頁',
+      icon: 'iconfont icon-home-fill',
+      link: '#',
+      submenu: [
+      { key: '伺服守則', link: 'https://www.brilliantw.net/伺服守則' },
+      { key: '遊戲教學', link: 'https://www.brilliantw.net/指令教學' },
+      { key: '贊助輝煌', link: 'https://www.brilliantw.net/贊助資訊' },
+      { key: '關於我們', link: 'https://www.brilliantw.net/關於輝煌' }
+      ]
+    }
+    - {
       key: '服規',
       icon: 'iconfont icon-book',
       link: '#',
@@ -363,7 +374,7 @@ navbar:
       { key: '7-4. 子規範 - 無領地權益', link: 'https://www.brilliantw.net/伺服守則/#7-4-子規範-無領地權益' },
       { key: '其它. 處分相關程度', link: 'https://www.brilliantw.net/伺服守則/#其它-處分相關程度' },
       { key: '其它. 發放全服補償禮包之標準', link: 'https://www.brilliantw.net/伺服守則/#其它-發放全服補償禮包之標準' },
-      { key: '其它. 玩家建築被破壞、偷竊之補償標準', link: 'https://www.brilliantw.net/伺服守則/#其它-玩家建築被破壞、偷竊之補償標準' },
+      { key: '其它. 玩家建築被破壞、偷竊之補償標準', link: 'https://www.brilliantw.net/伺服守則/#其它-玩家建築被破壞、偷竊之補償標準' }
       ]
     }
     - {
