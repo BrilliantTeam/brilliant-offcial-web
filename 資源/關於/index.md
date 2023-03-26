@@ -107,5 +107,7 @@ date: 2022-06-11 16:17:50
 
 - 築匠工- ` 企鵝 `
 
+- 築匠工- ` Kingson_Faputa  `
+
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
