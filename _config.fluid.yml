@@ -389,7 +389,8 @@ navbar:
       { key: '遊戲內頻道相關指令', link: 'https://www.brilliantw.net/指令教學/#04-頻道指令' },
       { key: '設置領地的方式', link: 'https://www.brilliantw.net/指令教學/#05-領地設置' },
       { key: '調整領地的權限', link: 'https://www.brilliantw.net/指令教學/#06-領地權限' },
-      { key: '其他領地使用方式', link: 'https://www.brilliantw.net/指令教學/#07-其他領地指令' }
+      { key: '其他領地使用方式', link: 'https://www.brilliantw.net/指令教學/#07-其他領地指令' },
+      { key: '使用聊天欄展示', link: 'https://www.brilliantw.net/指令教學/#08-展示語法' }
       ]
     }
     - {
