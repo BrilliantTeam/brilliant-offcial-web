@@ -489,7 +489,7 @@ scroll_top_arrow:
 # Open Graph metadata
 # See: https://hexo.io/docs/helpers.html#open-graph
 open_graph:
-  enable: true
+  enable: false
   twitter_card:
   twitter_id: BrilliantServer
   twitter_site:
