@@ -484,14 +484,14 @@ scroll_down_arrow:
 # 向顶部滚动的箭头
 # Scroll top arrow
 scroll_top_arrow:
-  enable: false
+  enable: true
 
 # Open Graph metadata
 # See: https://hexo.io/docs/helpers.html#open-graph
 open_graph:
-  enable: false
+  enable: true
   twitter_card:
-  twitter_id:
+  twitter_id: BrilliantServer
   twitter_site:
   google_plus:
   fb_admins:
