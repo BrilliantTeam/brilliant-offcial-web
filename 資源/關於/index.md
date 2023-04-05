@@ -16,7 +16,7 @@ date: 2022-06-11 16:17:50
 
 - Java 連線版本：` 1.19.1 ~ 1.19.4 `
 
-- Bedrock 連線版本：` 1.19.20 ~ 1.19.71  `
+- Bedrock 連線版本：` 1.19.20 ~ 1.19.73  `
 
 - Server 運行機制：` Java 1.19.3 `
 
@@ -96,8 +96,6 @@ date: 2022-06-11 16:17:50
 - 侍御士- ` 虎鯨 `
 
 - 策士仲- [` Rubia `](https://github.com/HanzerHong)
-
-- 譯屋寮- [` Stars Shine `](https://github.com/StarsShine11904)
 
 - 繪部司- ` 酥瑪書碼 `
 
