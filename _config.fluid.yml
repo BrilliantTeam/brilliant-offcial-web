@@ -1048,7 +1048,7 @@ about:
     - { class: "iconfont icon-instagram-fill", link: "https://www.instagram.com/brilliant.server", tip: "Instagram " }
     - { class: "iconfont icon-facebook-fill", link: "https://www.facebook.com/Brilliant.Server", tip: "facebook" }
     - { class: "iconfont icon-twitter-fill", link: "https://twitter.com/BrilliantServer", tip: "Twitter" }
-    - { class: "iconfont icon-github-fill", link: "https://github.com/BrilliantServer", tip: "GitHub" }
+    - { class: "iconfont icon-github-fill", link: "https://github.com/BrilliantTeam", tip: "GitHub" }
 
 
 #---------------------------
