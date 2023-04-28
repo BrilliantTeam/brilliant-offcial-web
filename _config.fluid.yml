@@ -889,7 +889,7 @@ valine:
   meta: ['nick', 'mail', 'link']
   requiredFields: []
   pageSize: 10
-  lang: 'zh-TW'
+  lang: 'zh-CN'
   highlight: true
   recordIP: true
   serverURLs: https://lyt8mpsi.lc-cn-e1-shared.com
