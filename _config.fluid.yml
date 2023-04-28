@@ -988,7 +988,7 @@ archive:
 # Category Page
 #---------------------------
 category:
-  enable: true
+  enable: false
   banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
@@ -1017,7 +1017,7 @@ category:
 # Tag Page
 #---------------------------
 tag:
-  enable: true
+  enable: false
   banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
@@ -1034,7 +1034,7 @@ tag:
 # About Page
 #---------------------------
 about:
-  enable: true
+  enable: false
   banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
   banner_img_height: 100
   banner_mask_alpha: 0.6
@@ -1118,7 +1118,7 @@ links:
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
-  onerror_avatar: /img/avatar.png
+  onerror_avatar: https://cdn.discordapp.com/attachments/596718421966716928/1101423635555684382/163_20230418010100.png
 
   # 友链下方自定义区域，支持 HTML，可插入例如申请友链的文字
   # Custom content at the bottom of the links
