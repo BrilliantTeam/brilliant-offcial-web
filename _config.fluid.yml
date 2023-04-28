@@ -816,11 +816,11 @@ post:
   # 评论插件
   # Comment plugin
   comments:
-    enable: false
+    enable: true
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus
-    type: disqus
+    type: valine
 
 
 #---------------------------
@@ -881,18 +881,18 @@ gitalk:
 # Based on LeanCloud
 # See: https://valine.js.org/
 valine:
-  appId:
-  appKey:
+  appid: LyT8mpSI2Jq9CRhOtNOgBXkE-9Nh9j0Va
+  appkey: fUOlkXhD9wcmxOTed9NdlqPH
   path: window.location.pathname
-  placeholder:
-  avatar: 'retro'
+  placeholder: 留言仅限讨论，禁止广告等行为
+  avatar: 'robohash'
   meta: ['nick', 'mail', 'link']
   requiredFields: []
   pageSize: 10
-  lang: 'zh-CN'
-  highlight: false
-  recordIP: false
-  serverURLs: ''
+  lang: 'zh-TW'
+  highlight: true
+  recordIP: true
+  serverURLs: 'https://lyt8mpsi.lc-cn-e1-shared.com'
   emojiCDN:
   emojiMaps:
   enableQQ: false
