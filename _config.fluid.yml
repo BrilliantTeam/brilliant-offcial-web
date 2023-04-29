@@ -44,7 +44,7 @@ code:
     enable: true
     default: "Brilliant."
 
-  # 代码高亮
+  # 代码高亮 
   # Code highlight
   highlight:
     enable: true
