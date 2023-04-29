@@ -1,7 +1,9 @@
 ---
+
 title: about
+
 layout: about
-date: 2022-06-11 16:17:50
+
 ---
 
 ![](https://media.discordapp.net/attachments/596718421966716928/971190210928992267/AddText_05-04-06.36.35.png)
