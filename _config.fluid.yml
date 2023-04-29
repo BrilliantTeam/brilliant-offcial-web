@@ -552,7 +552,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://cdn.discordapp.com/attachments/1097138250088460348/1101735286578356274/Brilliant_-_Google_Chrome_2023-04-29_13-02-20.mp4
+  banner_img: https://cdn.discordapp.com/attachments/1084466431124570132/1100714815783190638/IMG_0473.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
