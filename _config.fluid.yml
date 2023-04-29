@@ -1039,12 +1039,12 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
+  banner_img: https://cdn.discordapp.com/attachments/596718421966716928/1088834348112941126/2-1.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
   avatar: https://cdn.discordapp.com/attachments/1066371739069714462/1081971645067034645/AddText_09-23-10.45.55.png
   name: "輝煌"
-  intro: "Brilliant."
+  intro: "Brilliant Team"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
   # More icons can be found from https://hexo.fluid-dev.com/docs/en/icon/  `class` is the css class of the icon. If adding `qrcode`, The icon is no longer a link, but a hovering QR code
   icons:
