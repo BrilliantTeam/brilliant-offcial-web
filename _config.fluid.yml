@@ -434,6 +434,7 @@ navbar:
       { key: '合作夥伴', link: 'https://www.brilliantw.net/links' },
       { key: '加入輝煌', link: 'https://www.brilliantw.net/成員招募' },
       { key: '聯絡我們', link: 'https://discord.com/invite/5MHGpAFGEN' },
+      { key: '玩家論壇', link: 'https://www.brilliantw.net/玩家論壇' }
       ]
     }
 
@@ -512,6 +513,8 @@ footer:
     <span>伺服器狀態</span><br>
     <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/brilliantw.net/embed" width="728" height="120"></iframe>
     <a href="https://discord.com/invite/5MHGpAFGEN" target="_blank" rel="nofollow noopener"><span>聯絡我們</span></a>
+    &emsp;
+    <a href="https://www.brilliantw.net/玩家論壇" target="_blank" rel="nofollow noopener"><span>玩家論壇</span></a>
     &emsp;
     <a href="https://www.brilliantw.net/links" target="_blank" rel="nofollow noopener"><span>合作夥伴</span></a><br><br>
     Copyright © 輝煌 Brilliant 版權所有 All rights reserved
