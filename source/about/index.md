@@ -50,7 +50,7 @@ layout: about
 職位名|正式職位名|
 ------|------|
 煌務卿|官方人員、伺服器管理員
-式藝師|插件技術人員、後端技術人員、AI溝通人員
+式藝師|插件技術人員、後端技術人員、BOT技術人員、AI溝通人員
 侍御士|客服支援人員
 譯屋寮|在地化翻譯人員
 繪部司|遊戲美術人員
@@ -59,24 +59,24 @@ layout: about
 
 
 > 團隊成員：
-職位名|成員名稱|Github 帳號|
-------|:------:|------|
-煌務卿|RiceChen_|[RICE0707](https://github.com/RICE0707)
-煌務卿|風城|無
-煌務卿|Koyorice_|[YTiceice](https://github.com/YTiceice)
-式藝師|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
-式藝師|小千|[rDruTNT](https://github.com/rDruTNT)
-式藝師|菘菘|[SiongSng](https://github.com/SiongSng)
-式藝師|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
-式藝師|達斯|[DasCrystal](https://github.com/DasCrystal)
-式藝師|MinecraftPEayer|[MinecraftPEayer](https://github.com/MinecraftPEayer)
-侍御士|沙鼠|無
-侍御士|虎鯨|無
-策士仲|Rubia|[HanzerHong](https://github.com/HanzerHong)
-繪部司|酥瑪書碼|無
-繪部司|cookiedinosaur|無
-築匠工|企鵝|無
-築匠工|KK|無
+職位名|正式職位名|成員名稱|Github 帳號|
+------|:------:|:------:|------|
+煌務卿|官方人員、伺服器管理員|RiceChen_|[RICE0707](https://github.com/RICE0707)
+煌務卿|官方人員、伺服器管理員|風城|無
+煌務卿|官方人員、伺服器管理員、插件技術人員、後端技術人員|Koyorice_|[YTiceice](https://github.com/YTiceice)
+式藝師|伺服器管理員、插件技術人員、後端技術人員、BOT技術人員、AI溝通人員|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
+式藝師|插件技術人員|小千|[rDruTNT](https://github.com/rDruTNT)
+式藝師|插件技術人員|菘菘|[SiongSng](https://github.com/SiongSng)
+式藝師|BOT技術人員|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
+式藝師|插件技術人員、遊戲策劃人員|達斯|[DasCrystal](https://github.com/DasCrystal)
+式藝師|BOT技術人員|MinecraftPEayer|[MinecraftPEayer](https://github.com/MinecraftPEayer)
+侍御士|客服支援人員|沙鼠|無
+侍御士|客服支援人員|虎鯨|無
+策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/HanzerHong)
+繪部司|遊戲美術人員|酥瑪書碼|無
+繪部司|遊戲美術人員|cookiedinosaur|無
+築匠工|遊戲建築人員|企鵝|無
+築匠工|遊戲建築人員|KK|無
 
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
