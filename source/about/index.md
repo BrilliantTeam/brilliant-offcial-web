@@ -67,7 +67,7 @@ layout: about
 式藝師|伺服器管理員、插件技術人員、後端技術人員、BOT技術人員、AI溝通人員|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
 式藝師|插件技術人員|小千|[rDruTNT](https://github.com/rDruTNT)
 式藝師|插件技術人員|菘菘|[SiongSng](https://github.com/SiongSng)
-式藝師|BOT技術人員|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
+式藝師|後端技術人員、BOT技術人員|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
 式藝師|插件技術人員、遊戲策劃人員|達斯|[DasCrystal](https://github.com/DasCrystal)
 式藝師|BOT技術人員|MinecraftPEayer|[MinecraftPEayer](https://github.com/MinecraftPEayer)
 侍御士|客服支援人員|沙鼠|無
