@@ -75,7 +75,6 @@ layout: about
 策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/HanzerHong)
 繪部司|遊戲美術人員|酥瑪書碼|無
 繪部司|遊戲美術人員|cookiedinosaur|無
-築匠工|遊戲建築人員|企鵝|無
 築匠工|遊戲建築人員|KK|無
 
 # 團隊招募新血中！
