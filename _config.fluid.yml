@@ -382,7 +382,6 @@ navbar:
       icon: 'iconfont icon-books',
       link: '#',
       submenu: [
-      { key: '如何遊玩本服？', link: 'https://www.brilliantw.net/指令教學/#00-如何遊玩' },
       { key: '連結 Discord 帳號', link: 'https://www.brilliantw.net/指令教學/#01-連結帳號' },
       { key: '方塊查詢指令（基礎）', link: 'https://www.brilliantw.net/指令教學/#02-方塊查詢' },
       { key: '方塊查詢指令（進階）', link: 'https://www.brilliantw.net/指令教學/#03-進階查詢' },
@@ -392,7 +391,10 @@ navbar:
       { key: '其他領地使用方式', link: 'https://www.brilliantw.net/指令教學/#07-其他領地指令' },
       { key: '使用聊天欄展示', link: 'https://www.brilliantw.net/指令教學/#08-展示語法' },
       { key: '基岩版專用指令', link: 'https://www.brilliantw.net/指令教學/#09-基岩版專用' },
-      { key: '使用表情符號', link: 'https://www.brilliantw.net/指令教學/#10-表情符號' }
+      { key: '使用表情符號', link: 'https://www.brilliantw.net/指令教學/#10-表情符號' },
+      { key: '貨幣與道具', link: 'https://www.brilliantw.net/指令教學/#11-遊戲素材（尚未實裝）' },
+      { key: '每日與每周任務機制', link: 'https://www.brilliantw.net/指令教學/#12-每日與每周任務（尚未實裝）' },
+      { key: '汙染值是什麼？', link: 'https://www.brilliantw.net/指令教學/#13-汙染值（尚未實裝）' }
       ]
     }
     - {
