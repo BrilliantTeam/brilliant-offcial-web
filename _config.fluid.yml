@@ -394,7 +394,8 @@ navbar:
       { key: '使用表情符號', link: 'https://www.brilliantw.net/指令教學/#10-表情符號' },
       { key: '貨幣與道具', link: 'https://www.brilliantw.net/指令教學/#11-遊戲素材（尚未實裝）' },
       { key: '每日與每周任務機制', link: 'https://www.brilliantw.net/指令教學/#12-每日與每周任務（尚未實裝）' },
-      { key: '汙染值是什麼？', link: 'https://www.brilliantw.net/指令教學/#13-汙染值（尚未實裝）' }
+      { key: '汙染值是什麼？', link: 'https://www.brilliantw.net/指令教學/#13-汙染值（尚未實裝）' },
+      { key: '傳送站相關機制', link: 'https://www.brilliantw.net/指令教學/#14-傳送站（尚未實裝）
       ]
     }
     - {
