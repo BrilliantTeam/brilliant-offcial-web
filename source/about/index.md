@@ -75,7 +75,6 @@ layout: about
 策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/HanzerHong)
 繪部司|遊戲美術人員|酥瑪書碼|無
 繪部司|遊戲美術人員|cookiedinosaur|無
-築匠工|遊戲建築人員|KK|無
 
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
