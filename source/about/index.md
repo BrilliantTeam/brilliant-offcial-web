@@ -72,7 +72,7 @@ layout: about
 式藝師|BOT技術人員|MinecraftPEayer|[MinecraftPEayer](https://github.com/MinecraftPEayer)
 侍御士|客服支援人員|沙鼠|無
 侍御士|客服支援人員|虎鯨|無
-策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/HanzerHong)
+策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/Rubia7599)
 繪部司|遊戲美術人員|酥瑪書碼|無
 繪部司|遊戲美術人員|cookiedinosaur|無
 
