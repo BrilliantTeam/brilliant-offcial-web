@@ -394,7 +394,8 @@ navbar:
       { key: '貨幣與道具', link: 'https://www.brilliantw.net/指令教學/#10-遊戲素材（尚未實裝）' },
       { key: '每日與每周任務機制', link: 'https://www.brilliantw.net/指令教學/#11-每日與每周任務（尚未實裝）' },
       { key: '汙染值是什麼？', link: 'https://www.brilliantw.net/指令教學/#12-汙染值（尚未實裝）' },
-      { key: '頭飾獲取方式與種類', link: 'https://www.brilliantw.net/指令教學/#13-頭飾（暫無獲取方式）' }
+      { key: '收藏品獲取方式與種類', link: 'https://www.brilliantw.net/指令教學/#13-收藏品（暫無獲取方式）' },
+      { key: '甜品獲取方式與種類', link: 'https://www.brilliantw.net/指令教學/#14-甜品（暫無獲取方式）' }
       ]
     }
     - {
