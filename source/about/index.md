@@ -52,12 +52,11 @@ layout: about
 式藝師|插件技術人員、後端技術人員、BOT技術人員、AI溝通人員
 侍御士|客服支援人員
 譯屋寮|在地化翻譯人員
-繪部司|遊戲美術人員
+繪部司|遊戲美術人員、Java材質製作人員、Bedrock材質製作人員
 策士仲|遊戲策劃人員
 築匠工|遊戲建築人員
 
-
-> 團隊成員：
+### 團隊成員：
 職位名|正式職位名|成員名稱|Github 帳號|
 :------:|:------:|:------:|:------:|
 煌務卿|官方人員、伺服器管理員|RiceChen_|[RICE0707](https://github.com/RICE0707)
@@ -74,6 +73,7 @@ layout: about
 策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/Rubia7599)
 繪部司|遊戲美術人員|酥瑪書碼|無
 繪部司|遊戲美術人員|cookiedinosaur|無
+繪部司|Java材質製作人員|鯉魚|無
 
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
