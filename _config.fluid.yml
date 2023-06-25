@@ -383,6 +383,7 @@ navbar:
       link: '#',
       submenu: [
       { key: '連結 Discord 帳號', link: 'https://www.brilliantw.net/指令教學/#連結帳號' },
+      { key: '如何與玩家交易', link: 'https://www.brilliantw.net/指令教學/#乙太經濟' },
       { key: '方塊查詢指令（基礎）', link: 'https://www.brilliantw.net/指令教學/#方塊查詢' },
       { key: '方塊查詢指令（進階）', link: 'https://www.brilliantw.net/指令教學/#進階查詢' },
       { key: '遊戲內頻道相關指令', link: 'https://www.brilliantw.net/指令教學/#頻道指令' },
