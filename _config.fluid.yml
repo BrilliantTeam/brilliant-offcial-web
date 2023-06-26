@@ -390,6 +390,7 @@ navbar:
       { key: '設置領地的方式', link: 'https://www.brilliantw.net/指令教學/#領地設置' },
       { key: '領地的相關指令', link: 'https://www.brilliantw.net/指令教學/#領地指令' },
       { key: '鎖箱的方式', link: 'https://www.brilliantw.net/指令教學/#鎖箱方法' },
+      { key: '傳送的相關指令', link: 'https://www.brilliantw.net/指令教學/#傳送指令' },
       { key: '使用連鎖採集', link: 'https://www.brilliantw.net/指令教學/#連鎖採集' },
       { key: '使用界伏盒預覽', link: 'https://www.brilliantw.net/指令教學/#界伏盒預覽' },
       { key: '使用聊天欄展示', link: 'https://www.brilliantw.net/指令教學/#展示語法' },
