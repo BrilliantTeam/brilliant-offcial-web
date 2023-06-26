@@ -390,6 +390,8 @@ navbar:
       { key: '設置領地的方式', link: 'https://www.brilliantw.net/指令教學/#領地設置' },
       { key: '領地的相關指令', link: 'https://www.brilliantw.net/指令教學/#領地指令' },
       { key: '鎖箱的方式', link: 'https://www.brilliantw.net/指令教學/#鎖箱方法' },
+      { key: '使用連鎖採集', link: 'https://www.brilliantw.net/指令教學/#連鎖採集' },
+      { key: '使用界伏盒預覽', link: 'https://www.brilliantw.net/指令教學/#界伏盒預覽' },
       { key: '使用聊天欄展示', link: 'https://www.brilliantw.net/指令教學/#展示語法' },
       { key: '基岩版專用指令', link: 'https://www.brilliantw.net/指令教學/#基岩版專用' },
       { key: '使用表情符號', link: 'https://www.brilliantw.net/指令教學/#表情符號' },
@@ -397,7 +399,8 @@ navbar:
       { key: '每日與每周任務機制', link: 'https://www.brilliantw.net/指令教學/#每日與每周任務（尚未實裝）' },
       { key: '汙染值是什麼？', link: 'https://www.brilliantw.net/指令教學/#汙染值（尚未實裝）' },
       { key: '收藏品獲取方式與種類', link: 'https://www.brilliantw.net/指令教學/#收藏品（暫無獲取方式）' },
-      { key: '甜品獲取方式與種類', link: 'https://www.brilliantw.net/指令教學/#甜品（暫無獲取方式）' }
+      { key: '甜品獲取方式與種類', link: 'https://www.brilliantw.net/指令教學/#甜品（暫無獲取方式）' },
+      { key: '使用雜項指令', link: 'https://www.brilliantw.net/指令教學/#雜項指令' }
       ]
     }
     - {
