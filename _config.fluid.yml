@@ -392,6 +392,7 @@ navbar:
       { key: '領地的相關指令', link: 'https://www.brilliantw.net/指令教學/#領地指令' },
       { key: '鎖箱的方式', link: 'https://www.brilliantw.net/指令教學/#鎖箱方法' },
       { key: '傳送的相關指令', link: 'https://www.brilliantw.net/指令教學/#傳送指令' },
+      { key: '重啟回傳機制', link: 'https://www.brilliantw.net/指令教學/#重啟回傳' },
       { key: '資源再生機制', link: 'https://www.brilliantw.net/指令教學/#資源再生' },
       { key: '礦物代換機制', link: 'https://www.brilliantw.net/指令教學/#礦物代換' },
       { key: '使用連鎖採集', link: 'https://www.brilliantw.net/指令教學/#連鎖採集' },
