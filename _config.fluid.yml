@@ -502,7 +502,7 @@ footer:
   content: '
     <span>伺服器狀態</span><br><br>
     <a href="https://www.mc-list.xyz/843/info" target="_blank">
-    <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://image.mc-list.xyz/banner/1-843.png" width="728" height="120"></iframe>
+    <img src="https://image.mc-list.xyz/banner/1-843.png" />
 </a>
     <iframe style="width:728px;height:120px;max-width:100%;border:none;display:block;margin:auto;" src="https://sr-api.sfirew.com/server/brilliantw.net/embed" width="728" height="120"></iframe>
     <a href="https://discord.com/invite/5MHGpAFGEN" target="_blank" rel="nofollow noopener"><span>聯絡我們</span></a>
