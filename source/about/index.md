@@ -16,12 +16,12 @@ layout: about
 # 基本資訊（Bedrock）
 - 連線位置：` Brilliantw.net `
 - 連線端口：` 19132 `
-- 連線版本：` 1.19.80 ~ 1.20.10 `
+- 連線版本：` 1.19.80 ~ 1.20.12 `
 - 「Java / Bedrock 雙平台進入同一世界」
 
 # 其他資訊
 - Server 運行機制：` Java 1.20.1 `
-- Server 人數上限：` 100 `
+- Server 人數上限：` 300 `
 - Server 正版驗證：` 開啟 `
 - Server 運行時間：` 24H `
 - Server 主機位置：` 臺灣 `
