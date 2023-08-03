@@ -75,6 +75,7 @@ layout: about
 繪部司|遊戲美術人員|酥瑪|無
 繪部司|遊戲美術人員|cookiedinosaur|無
 繪部司|Java材質製作人員|鯉魚|無
+繪部司|遊戲美術人員|cookiedinosaur|無
 
 # 團隊招募新血中！
 - <a href="https://www.brilliantw.net/成員招募">點我查看招募資訊</a>
