@@ -18,10 +18,10 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: https://cdn.discordapp.com/attachments/891926093915889675/1104367626844655666/Untitled83_20230506181330.png
+favicon: https://cdn.discordapp.com/attachments/1084466431124570132/1142822364996976701/IMG_1685.png
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: https://cdn.discordapp.com/attachments/891926093915889675/1104367626844655666/Untitled83_20230506181330.png
+apple_touch_icon: https://cdn.discordapp.com/attachments/1084466431124570132/1142822364996976701/IMG_1685.png
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -546,7 +546,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://cdn.discordapp.com/attachments/596718421966716928/1138139411146612747/AddText_08-07-11.59.33.jpg
+  banner_img: https://cdn.discordapp.com/attachments/1084466431124570132/1142830526282080437/IMG_1686.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
