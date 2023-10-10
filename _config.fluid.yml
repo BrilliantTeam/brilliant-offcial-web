@@ -375,7 +375,8 @@ navbar:
       { key: '8. 請勿建造無意義的柱狀與長條建築', link: 'https://www.brilliantw.net/伺服守則/#8-請勿建造無意義的柱狀與長條建築' },
       { key: '其它. 處分相關程度', link: 'https://www.brilliantw.net/伺服守則/#其它-處分相關程度' },
       { key: '其它. 發放全服補償禮包之標準', link: 'https://www.brilliantw.net/伺服守則/#其它-發放全服補償禮包之標準' },
-      { key: '其它. 玩家建築被破壞、偷竊之補償標準', link: 'https://www.brilliantw.net/伺服守則/#其它-玩家建築被破壞、偷竊之補償標準' }
+      { key: '其它. 玩家建築被破壞、偷竊之補償標準', link: 'https://www.brilliantw.net/伺服守則/#其它-玩家建築被破壞、偷竊之補償標準' },
+      { key: '其它. 被封禁者之領地移除標準', link: 'https://www.brilliantw.net/伺服守則/#其它-被封禁者之領地移除標準' }
       ]
     }
     - {
