@@ -18,10 +18,10 @@
 
 # 用于浏览器标签的图标
 # Icon for browser tab
-favicon: https://cdn.discordapp.com/attachments/1084466431124570132/1142822364996976701/IMG_1685.png
+favicon: img/輝煌icon.png
 # 用于苹果设备的图标
 # Icon for Apple touch
-apple_touch_icon: https://cdn.discordapp.com/attachments/1084466431124570132/1142822364996976701/IMG_1685.png
+apple_touch_icon: img/輝煌icon.png
 
 # 浏览器标签页中的标题分隔符，效果： 文章名 - 站点名
 # Title separator in browser tab, eg: article - site
@@ -300,7 +300,7 @@ lazyload:
 
   # 加载时的占位图片
   # The placeholder image when loading
-  loading_img: https://cdn.discordapp.com/attachments/1084466431124570132/1130537259196756110/this_is_true_rotate_faster.gif
+  loading_img: img/載入.gif
 
   # 开启后懒加载仅在文章页生效，如果自定义页面需要使用，可以在 Front-matter 里指定 `lazyload: true`
   # If true, only enable lazyload on the post page. For custom pages, you can set 'lazyload: true' in front-matter
@@ -547,7 +547,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://cdn.discordapp.com/attachments/1084466431124570132/1142830526282080437/IMG_1686.jpg
+  banner_img: img/首頁橫幅.png
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -566,7 +566,7 @@ index:
 
     # 为空则按 hexo config.subtitle 显示
     # If empty, text based on `subtitle` in hexo config
-    text: 輝煌是一個所有玩家都能在此發揮創造力的社群，<br>願你能夠在這裡創造屬於你的「輝煌」。<br><br>Brilliantw.net / 1.19.1 ~ 1.20.2
+    text: 輝煌是一個所有玩家都能在此發揮創造力的社群，<br>願你能夠在這裡創造屬於你的「輝煌」。<br><br>Brilliantw.net / 1.20 ~ 1.20.2
 
     # 通过 API 接口作为首页副标题的内容，必须返回的是 JSON 格式，如果请求失败则按 text 字段显示，该功能必须先开启 typing 打字机功能
     # Subtitle of the homepage through the API, must be returned a JSON. If the request fails, it will be displayed in `text` value. This feature must first enable the typing animation
@@ -619,13 +619,13 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: https://cdn.discordapp.com/attachments/596718421966716928/1101176752610488460/AddText_01-03-03.14.42.png
+  banner_img: img/子帳申請/子帳申請.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
 
   # 文章在首页的默认封面图，当没有指定 index_img 时会使用该图片，若两者都为空则不显示任何图片
   # Path of the default post cover when `index_img` is not set. If both are empty, no image will be displayed
-  default_index_img: https://cdn.discordapp.com/attachments/596718421966716928/1101176752610488460/AddText_01-03-03.14.42.png
+  default_index_img: img/子帳申請/子帳申請.png
 
   # 文章标题下方的元信息
   # Meta information below title
@@ -974,7 +974,7 @@ giscus:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
+  banner_img: img/其他橫幅.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
 
@@ -985,7 +985,7 @@ archive:
 #---------------------------
 category:
   enable: false
-  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
+  banner_img: img/其他橫幅.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
 
@@ -1014,7 +1014,7 @@ category:
 #---------------------------
 tag:
   enable: false
-  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
+  banner_img: img/其他橫幅.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
   tagcloud:
@@ -1031,10 +1031,10 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://cdn.discordapp.com/attachments/596718421966716928/1088834348112941126/2-1.png
+  banner_img: img/關於輝煌/關於輝煌.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
-  avatar: https://cdn.discordapp.com/attachments/1066371739069714462/1081971645067034645/AddText_09-23-10.45.55.png
+  avatar: img/輝煌icon.png
   name: "輝煌"
   intro: "Brilliant Team"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -1055,7 +1055,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
+  banner_img: img/其他橫幅.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
 
@@ -1066,7 +1066,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: https://cdn.discordapp.com/attachments/1014171061530656778/1015535917580177468/AddText_09-03-04.16.46.png
+  banner_img: img/404.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
   # 重定向到首页的延迟(毫秒)
@@ -1080,7 +1080,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: https://media.discordapp.net/attachments/596718421966716928/987292181909868574/2022-05-20_01.27.34.png?width=1441&height=434
+  banner_img: img/其他橫幅.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
   # 友链的成员项
@@ -1090,7 +1090,7 @@ links:
       title: "RPMTW",
       intro: "致力於推廣麥塊中文社群，並開發相關實用工具的團隊",
       link: "https://www.rpmtw.com/",
-      avatar: "https://cdn.discordapp.com/attachments/596718421966716928/1084374075897561148/RPMTW-1w.png"
+      avatar: "img/RPMTW.png"
     }
     - {
       title: "Minecraft TOP",
@@ -1102,19 +1102,19 @@ links:
       title: "vProxy Cloud",
       intro: "抗DDoS攻擊服務",
       link: "https://github.com/fluid-dev/hexo-theme-fluid",
-      avatar: "https://cdn.discordapp.com/emojis/1038777659196452884.png"
+      avatar: "img/vProxy_Cloud.png"
     }
     - {
       title: "創世聯邦 Cartoland",
       intro: "Minecraft 地圖製作者聚集地",
       link: " https://discord.gg/UMYxwHyRNE",
-      avatar: "https://cdn.discordapp.com/attachments/884775985315205171/987302485297360906/FD8A57E8-442B-4026-8F9F-0BD2836BF392.png"
+      avatar: "img/創聯.png"
     }
 
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
-  onerror_avatar: https://cdn.discordapp.com/attachments/596718421966716928/1101423635555684382/163_20230418010100.png
+  onerror_avatar: img/載入失敗.png
 
   # 友链下方自定义区域，支持 HTML，可插入例如申请友链的文字
   # Custom content at the bottom of the links
