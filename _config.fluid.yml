@@ -1095,13 +1095,13 @@ links:
     - {
       title: "Minecraft TOP",
       intro: "麥塊伺服器查詢系統",
-      link: "https://vproxy.cloud/",
-      avatar: "https://mcsv.top/_nuxt/icons/icon_512x512.3da411.png"
+      link: "https://www.mcsv.top/",
+      avatar: "https://www.mcsv.top/_ipx/s_512x512/assets/blocks/grass.png"
     }
     - {
       title: "vProxy Cloud",
       intro: "抗DDoS攻擊服務",
-      link: "https://github.com/fluid-dev/hexo-theme-fluid",
+      link: "https://vproxy.cloud/",
       avatar: "img/vProxy_Cloud.png"
     }
     - {
