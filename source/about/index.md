@@ -72,6 +72,7 @@ layout: about
 式藝師|BOT技術人員|MinecraftPEayer|[MinecraftPEayer](https://github.com/MinecraftPEayer)
 式藝師|插件技術人員|吐司|[TUSZzzz](https://github.com/TUSZzzz)
 式藝師|插件技術人員|旋|[xuancat0208](https://github.com/xuancat0208)
+式藝師|插件技術人員|Nontage|[Nontage](https://github.com/SeanMud0319)
 侍御士|客服支援人員|沙鼠|無
 侍御士|客服支援人員|虎鯨|無
 策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/Rubia7599)
