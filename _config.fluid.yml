@@ -418,7 +418,7 @@ navbar:
      - {
       key: '狀態',
       icon: 'iconfont icon-tags-fill',
-      link: 'https://uptime.brilliantw.net/',
+      link: '#',
       submenu: [
       { key: '查看輝煌相關服務狀態總覽', link: 'https://uptime.brilliantw.net/' }
       ]
