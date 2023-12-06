@@ -413,9 +413,7 @@ navbar:
       { key: '關於飯娘', link: 'https://www.brilliantw.net/關於飯娘' }
       ]
     }
-    #- { key: "標籤", link: "/tags/", icon: "iconfont icon-tags-fill" }
-    #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
-     - {
+    - {
       key: '狀態',
       icon: 'iconfont icon-tags-fill',
       link: '#',
