@@ -415,6 +415,14 @@ navbar:
     }
     #- { key: "標籤", link: "/tags/", icon: "iconfont icon-tags-fill" }
     #- { key: "links", link: "/links/", icon: "iconfont icon-link-fill" }
+     - {
+      key: '狀態',
+      icon: 'iconfont icon-tags-fill',
+      link: 'https://uptime.brilliantw.net/',
+      submenu: [
+      { key: '查看輝煌相關服務狀態總覽', link: 'https://uptime.brilliantw.net/' }
+      ]
+    }
     - {
       key: '其他',
       icon: 'iconfont icon-category-fill',
