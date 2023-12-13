@@ -384,7 +384,10 @@ navbar:
       icon: 'iconfont icon-books',
       link: '#',
       submenu: [
-      { key: '太多教學了，選單會超出畫面 >_<', link: 'https://www.brilliantw.net/指令教學' }
+      { key: '新玩家必備知識', link: 'https://www.brilliantw.net/指令教學/#新玩家必備知識' },
+      { key: '遊戲機制調整', link: 'https://www.brilliantw.net/指令教學/#遊戲機制調整' },
+      { key: '其他便捷功能與遊戲玩法', link: 'https://www.brilliantw.net/指令教學/#其他便捷功能與遊戲玩法' },
+      { key: '雜項指令', link: 'https://www.brilliantw.net/指令教學/#雜項指令' }
       ]
     }
     - {
