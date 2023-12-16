@@ -64,8 +64,9 @@ layout: about
 :------:|:------:|:------:|:------:|
 煌務卿|官方人員、伺服器管理員|RiceChen_|[RICE0707](https://github.com/RICE0707)
 煌務卿|官方人員、伺服器管理員|風城|無
-煌務卿|官方人員、伺服器管理員、插件技術人員、後端技術人員|Koyorice_|[YTiceice](https://github.com/YTiceice)
+煌務卿|官方人員、伺服器管理員、遊戲美術人員|酥瑪|無
 式藝師|伺服器管理員、插件技術人員、後端技術人員、BOT技術人員、AI溝通人員|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
+式藝師|插件技術人員、後端技術人員|Koyorice_|[YTiceice](https://github.com/YTiceice)
 式藝師|插件技術人員|小千|[rDruTNT](https://github.com/rDruTNT)
 式藝師|插件技術人員|菘菘|[SiongSng](https://github.com/SiongSng)
 式藝師|後端技術人員、BOT技術人員|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
