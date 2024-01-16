@@ -1105,14 +1105,7 @@ links:
       title: "Minecraft TOP",
       intro: "麥塊伺服器查詢系統",
       link: "https://www.mcsv.top/",
-      avatar: "https://www.mcsv.top/_ipx/s_512x512/assets/blocks/grass.png"
-    }
-    - {
-      title: "vProxy Cloud",
-      intro: "抗DDoS攻擊服務",
-      link: "https://vproxy.cloud/",
-      avatar: "img/vProxy_Cloud.png"
-    }
+      avatar: "https://www.mcsv.top/_vercel/image?url=/assets/logo-rounded.png&w=1536&q=100"
     - {
       title: "創世聯邦 Cartoland",
       intro: "Minecraft 地圖製作者聚集地",
@@ -1129,7 +1122,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '<hr><p>成為合作伙伴：</p><ul><li>但為確保合作項目的完整性及達到互利的效果，</li><li>敝方希望您在聯絡敝方前，先準備好一些您想合作的項目，</li><li>並透過 admin@brilliantw.net 聯絡敝方時，簡單介紹欲合作項目。<p> </p></li><li>在收到以上的資料後，</li><li>敝方有關的管理人員也會因應您提案的企劃進行細閱及了解狀況，</li><li>從而決定會否存在合作的可行性。<p> </p></li><li>簡單來說就是，</li><li>還請您先讓敝方知道您的想合作的項目有什麼與別不同之處的介紹一下：</li><li>您想合作的項目、期待的合作方式、以及提案實行的方針。<p> </p></li><li>並傳送電子郵件至 admin@brilliantw.net 聯絡敝方。</li></ul>'
+    content: '成為合作夥伴<br>　為確保合作項目的完整性及達到互利的效果，<br>　敝方希望您在聯絡敝方前，先準備好一些您想合作的項目，<br>　並透過 admin@brilliantw.net 聯絡敝方時，簡單介紹欲合作項目。<br><br>　在收到以上的資料後，<br>　敝方有關的管理人員也會因應您提案的企劃進行細閱及了解狀況，<br>　從而決定會否存在合作的可行性。<br><br>　簡單來說就是，<br>　還請您先讓敝方知道您的想合作的項目有什麼與別不同之處的介紹一下：<br>　您想合作的項目、期待的合作方式、以及提案實行的方針。<br>　並傳送電子郵件至 admin@brilliantw.net 聯絡敝方。<br>'
 
   # 评论插件
   # Comment plugin
