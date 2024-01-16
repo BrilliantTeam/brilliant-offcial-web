@@ -1123,7 +1123,7 @@ links:
   # Custom content at the bottom of the links
   custom:
     enable: true
-    content: '成為合作夥伴<br>　為確保合作項目的完整性及達到互利的效果，<br>　敝方希望您在聯絡敝方前，先準備好一些您想合作的項目，<br>　並透過 admin@brilliantw.net 聯絡敝方時，簡單介紹欲合作項目。<br><br>　在收到以上的資料後，<br>　敝方有關的管理人員也會因應您提案的企劃進行細閱及了解狀況，<br>　從而決定會否存在合作的可行性。<br><br>　簡單來說就是，<br>　還請您先讓敝方知道您的想合作的項目有什麼與別不同之處的介紹一下：<br>　您想合作的項目、期待的合作方式、以及提案實行的方針。<br>　並傳送電子郵件至 admin@brilliantw.net 聯絡敝方。<br>'
+    content: '<font size="5">如何成為合作夥伴？</font><br><br>　為確保合作項目的完整性及達到互利的效果，<br>　敝方希望您在聯絡敝方前，先準備好一些您想合作的項目，<br>　並透過 <a href="admin@brilliantw.net">admin@brilliantw.net</a> 聯絡敝方時，簡單介紹欲合作項目。<br><br>　在收到以上的資料後，<br>　敝方有關的管理人員也會因應您提案的企劃進行細閱及了解狀況，<br>　從而決定會否存在合作的可行性。<br><br>　簡單來說就是，<br>　還請您先讓敝方知道您的想合作的項目有什麼與別不同之處的介紹一下：<br>　您想合作的項目、期待的合作方式、以及提案實行的方針。<br>　並傳送電子郵件至 <a href="admin@brilliantw.net">admin@brilliantw.net</a> 聯絡敝方。<br>'
 
   # 评论插件
   # Comment plugin
