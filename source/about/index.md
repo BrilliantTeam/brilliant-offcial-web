@@ -55,7 +55,7 @@ layout: about
 式藝師|插件技術人員、後端技術人員、BOT技術人員、AI溝通人員
 侍御士|客服支援人員
 譯屋寮|在地化翻譯人員
-繪部司|遊戲美術人員、Java材質製作人員、Bedrock材質製作人員
+繪部司|遊戲美術人員、遊戲材質製作人員
 策士仲|遊戲策劃人員
 築匠工|遊戲建築人員
 
@@ -64,7 +64,7 @@ layout: about
 :------:|:------:|:------:|:------:|
 煌務卿|官方人員、伺服器管理員|RiceChen_|[RICE0707](https://github.com/RICE0707)
 煌務卿|官方人員、伺服器管理員|風城|無
-煌務卿|官方人員、伺服器管理員、遊戲美術人員|酥瑪|無
+煌務卿|官方人員、伺服器管理員、遊戲美術人員、遊戲材質製作人員|酥瑪|無
 式藝師|伺服器管理員、插件技術人員、後端技術人員、BOT技術人員、AI溝通人員|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
 式藝師|插件技術人員|小千|[rDruTNT](https://github.com/rDruTNT)
 式藝師|插件技術人員|菘菘|[SiongSng](https://github.com/SiongSng)
@@ -77,8 +77,7 @@ layout: about
 侍御士|客服支援人員|沙鼠|無
 侍御士|客服支援人員|虎鯨|無
 策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/Rubia7599)
-繪部司|遊戲美術人員|酥瑪|無
-繪部司|遊戲美術人員|cookiedinosaur|無
+繪部司|遊戲美術人員、遊戲材質製作人員|cookiedinosaur|無
 繪部司|Java材質製作人員|鯉魚|無
 繪部司|遊戲美術人員|白紙|無
 繪部司|遊戲美術人員|海馬|無
