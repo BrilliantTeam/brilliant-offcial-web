@@ -409,7 +409,6 @@ navbar:
       { key: '相關連結', link: 'https://www.brilliantw.net/關於輝煌/#相關連結' },
       { key: '團隊資訊', link: 'https://www.brilliantw.net/關於輝煌/#團隊資訊' },
       { key: '加入團隊', link: 'https://www.brilliantw.net/成員招募' },
-      { key: '輝煌材質', link: 'https://www.brilliantw.net/輝煌材質' },
       { key: '開源專案', link: 'https://www.brilliantw.net/開源專案' },
       { key: '關於飯娘', link: 'https://www.brilliantw.net/關於飯娘' }
       ]
