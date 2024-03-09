@@ -60,7 +60,7 @@ layout: about
 ### 團隊成員：
 職位名|正式職位名|成員名稱|Github 帳號|
 :------:|:------:|:------:|:------:|
-煌務卿|官方人員、伺服器管理員|RiceChen_|[RICE0707](https://github.com/RICE0707)
+煌務卿|官方人員、伺服器管理員、遊戲材質製作人員|RiceChen_|[RICE0707](https://github.com/RICE0707)
 煌務卿|官方人員、伺服器管理員|風城|無
 煌務卿|官方人員、伺服器管理員、製圖美術人員、遊戲材質製作人員|酥瑪|無
 式藝師|伺服器管理員、插件技術人員、後端技術人員、機器人技術人員|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
@@ -72,6 +72,7 @@ layout: about
 式藝師|插件技術人員|吐司|[TUSZzzz](https://github.com/TUSZzzz)
 式藝師|插件技術人員|旋|[xuancat0208](https://github.com/xuancat0208)
 式藝師|插件技術人員|Nontage|[Nontage](https://github.com/SeanMud0319)
+式藝師|插件技術人員|L1An|[L1-An](https://github.com/L1-An)
 侍御士|客服支援人員|沙鼠|無
 侍御士|客服支援人員|虎鯨|無
 策士仲|遊戲策劃人員|Rubia|[HanzerHong](https://github.com/Rubia7599)
