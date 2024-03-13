@@ -224,7 +224,7 @@ color:
 # Font
 font:
   font_size: 16px
-  font_family: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+  font_family: "Helvetica","Arial","LiHei Pro","黑體-繁","微軟正黑體",sans-serif;
   letter_spacing: 0.04em
   code_font_size: 85%
 
