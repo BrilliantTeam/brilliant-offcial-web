@@ -1112,6 +1112,12 @@ links:
       link: " https://discord.gg/UMYxwHyRNE",
       avatar: "img/創聯.png"
     }
+    - {
+      title: "台灣麥塊服主聯盟",
+      intro: "台灣麥塊服主聯盟是一個旨在促進台灣 Minecraft 伺服器主之間合作、資源分享和共同成長的平台。我們提供技術支援、資源共享、宣傳機會等服務，打造一個充滿活力的伺服器主社群。",
+      link: " https://tmsa.lnstw.xyz/",
+      avatar: "img/tmsa.png"
+    }
 
 
   # 当成员头像加载失败时，替换为指定图片
