@@ -1103,12 +1103,6 @@ links:
       link: " https://discord.gg/UMYxwHyRNE",
       avatar: "img/創聯.png"
     }
-    - {
-      title: "台灣麥塊服主聯盟",
-      intro: "整合全台灣各種麥塊伺服器，讓你的伺服器被更多人看見！",
-      link: " https://tmsa.lnstw.xyz/",
-      avatar: "img/tmsa.png"
-    }
 
 
   # 当成员头像加载失败时，替换为指定图片
