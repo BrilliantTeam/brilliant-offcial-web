@@ -3,7 +3,7 @@
     src: url('/NaikaiFont-Regular.ttf'); /*URL to font*/
 }
 
-div {
+div p {
     font-family: 'NaikaiFont-Regular-btw';
 }
 
