@@ -1,9 +1,9 @@
 @font-face {
-    font-family: 'NaikaiFont-Regular-btw'; /*a name to be used later*/
+    font-family: 'NRRR'; /*a name to be used later*/
     src: url('/NaikaiFont-Regular.ttf'); /*URL to font*/
 }
 
 div p {
-    font-family: 'NaikaiFont-Regular-btw';
+    font-family: 'NRRR';
 }
 
