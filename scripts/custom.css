@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'NaikaiFont-Regular'; /*a name to be used later*/
+    font-family: 'NaikaiFont-Regular-btw'; /*a name to be used later*/
     src: url('/NaikaiFont-Regular.ttf'); /*URL to font*/
 }
 
 div {
-    font-family: 'NaikaiFont-Regular';
+    font-family: 'NaikaiFont-Regular-btw';
 }
 
 
