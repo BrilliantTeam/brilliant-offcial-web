@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'Minecraft'; /*a name to be used later*/
-    src: url('/Minecraft.ttf'); /*URL to font*/
+    font-family: 'NaikaiFont-Regular'; /*a name to be used later*/
+    src: url('/NaikaiFont-Regular.ttf'); /*URL to font*/
 }
 
 div {
-    font-family: 'Minecraft';
+    font-family: 'NaikaiFont-Regular';
 }
 
 
