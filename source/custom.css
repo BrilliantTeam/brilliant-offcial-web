@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'NRRR'; /*a name to be used later*/
+    src: url('/NaikaiFont-Regular.ttf'); /*URL to font*/
+}
+
+div p {
+    font-family: 'NRRR';
+}
+
