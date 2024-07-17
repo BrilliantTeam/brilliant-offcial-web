@@ -19,7 +19,7 @@ layout: about
 - 第三分流：` 99.9% 原味生存服 `
 
 # 其他資訊
-- Server 運行機制：` Java 1.20.2 `
+- Server 運行機制：` Java 1.20.2 `（三服` 1.20.6 `）
 - Server 人數上限：` 300 `
 - Server 正版驗證：` 開啟 `
 - Server 運行時間：` 24H `
