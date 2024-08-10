@@ -397,9 +397,11 @@ navbar:
       submenu: [
       { key: '資金使用', link: 'https://www.brilliantw.net/贊助資訊/#資金使用' },
       { key: '贊助福利', link: 'https://www.brilliantw.net/贊助資訊/#贊助福利' },
-      { key: '付款方式', link: 'https://www.brilliantw.net/贊助資訊/#付款方式' },
       { key: '贊助須知', link: 'https://www.brilliantw.net/贊助資訊/#贊助須知' },
-      { key: '立即贊助', link: 'https://www.brilliantw.net/贊助資訊/#贊助輝煌伺服器' }
+      { key: '支持運營', link: 'https://www.brilliantw.net/贊助資訊/#支持我們繼續運營下去' },
+      { key: '1170+特殊福利', link: 'https://www.brilliantw.net/贊助資訊/#累積贊助-1170-新台幣以上啟用-全地圖飛行' },
+      { key: '3470+特殊福利', link: 'https://www.brilliantw.net/贊助資訊/#累積贊助-3470-新台幣以上啟用-建立自定義專屬個人稱號' },
+      { key: '5000+特殊福利', link: 'https://www.brilliantw.net/贊助資訊/#累積贊助-5000-新台幣以上啟用-製作專屬遊戲人偶' },
       ]
     }
     - {
