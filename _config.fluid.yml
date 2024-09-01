@@ -373,9 +373,9 @@ navbar:
       #{ key: '4-4. 卡服相關', link: 'https://www.brilliantw.net/伺服守則/#4-4-卡服相關' },
       #{ key: '4-5. 終界主島建築與物資保護規範', link: 'https://www.brilliantw.net/伺服守則/#4-5-終界主島建築與物資保護規範' },
       #{ key: '4-6. 機率性遊戲設施建造規範', link: 'https://www.brilliantw.net/伺服守則/#4-6-機率性遊戲設施建造規範' },
-      { key: '其它. 處分相關程度', link: 'https://www.brilliantw.net/伺服守則/#其它-處分相關程度由-輕-至-重-如下' },
-      { key: '其它. 玩家建築被破壞、偷竊之補償標準', link: 'https://www.brilliantw.net/伺服守則/#其它-玩家建築物資被破壞、偷竊之補償標準' },
-      { key: '其它. 被封禁者之領地移除標準', link: 'https://www.brilliantw.net/伺服守則/#其它-被封禁者之領地移除標準' }
+      { key: '其他. 處分相關程度', link: 'https://www.brilliantw.net/伺服守則/#處分相關程度由-輕-至-重-如下' },
+      { key: '其他. 玩家建築被破壞、偷竊之補償標準', link: 'https://www.brilliantw.net/伺服守則/#玩家建築物資被破壞、偷竊之補償標準' },
+      { key: '其他. 被封禁者之領地移除標準', link: 'https://www.brilliantw.net/伺服守則/#被封禁者之領地移除標準' }
       ]
     }
     - {
