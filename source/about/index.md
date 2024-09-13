@@ -66,7 +66,6 @@ layout: about
 煌務卿|官方人員、伺服器管理員、製圖美術人員、遊戲材質製作人員|酥瑪|[isbn978986](https://github.com/isbn978986)
 式藝師|插件技術人員、後端技術人員、機器人技術人員|NCT skyouo|[NCT-skyouo](https://github.com/NCT-skyouo)
 式藝師|插件技術人員|小千|[rDruTNT](https://github.com/rDruTNT)
-式藝師|插件技術人員|菘菘|[SiongSng](https://github.com/SiongSng)
 式藝師|後端技術人員、機器人技術人員|SnowFireWolf|[SnowFireWolf](https://github.com/SnowFireWolf)
 式藝師|插件技術人員、遊戲策劃人員|達斯|[DasCrystal](https://github.com/DasCrystal)
 式藝師|機器人技術人員|MinecraftPEayer|[MinecraftPEayer](https://github.com/MinecraftPEayer)
