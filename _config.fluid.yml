@@ -387,7 +387,7 @@ navbar:
       { key: '遊戲機制調整', link: 'https://www.brilliantw.net/指令教學/#遊戲機制調整' },
       { key: '其他便捷功能與遊戲玩法', link: 'https://www.brilliantw.net/指令教學/#其他便捷功能與遊戲玩法' },
       { key: '雜項指令', link: 'https://www.brilliantw.net/指令教學/#雜項指令' },
-      { key: '第三分流相關', link: 'https://www.brilliantw.net/指令教學/#第三分流功能' }
+      { key: '第三分流相關', link: 'https://www.brilliantw.net/三服相關' }
       ]
     }
     - {
