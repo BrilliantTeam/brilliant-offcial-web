@@ -1103,8 +1103,14 @@ links:
     - {
       title: "創世聯邦 Cartoland",
       intro: "Minecraft 地圖製作者聚集地",
-      link: " https://discord.gg/UMYxwHyRNE",
+      link: "https://discord.gg/UMYxwHyRNE",
       avatar: "img/創聯.png"
+    }
+    - {
+      title: "白雪熊SnowBear",
+      intro: "媒體合作夥伴",
+      link: "https://youtube.com/@snowbeartw",
+      avatar: "img/snowbear.png"
     }
 
 
