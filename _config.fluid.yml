@@ -1112,6 +1112,12 @@ links:
       link: "https://youtube.com/@snowbeartw",
       avatar: "img/snowbear.png"
     }
+    - {
+      title: "Zonzer 送神",
+      intro: "媒體合作夥伴",
+      link: "https://www.youtube.com/@Zonzer",
+      avatar: "img/zonzer.jpg"
+    }
 
 
   # 当成员头像加载失败时，替换为指定图片
