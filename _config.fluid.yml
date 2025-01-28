@@ -400,6 +400,7 @@ navbar:
       { key: '贊助須知', link: 'https://www.brilliantw.net/贊助資訊/#贊助須知' },
       { key: '支持運營', link: 'https://www.brilliantw.net/贊助資訊/#支持我們繼續運營下去' },
       { key: '1170+特殊回饋', link: 'https://www.brilliantw.net/贊助資訊/#累積贊助-1170-新台幣以上回饋-全地圖飛行' },
+      { key: '2970+特殊回饋', link: 'https://www.brilliantw.net/贊助資訊/#累積贊助-2970-新台幣以上回饋-自定義顯示暱稱' },
       { key: '3470+特殊回饋', link: 'https://www.brilliantw.net/贊助資訊/#累積贊助-3470-新台幣以上回饋-建立自定義專屬個人稱號' },
       { key: '5000+特殊回饋', link: 'https://www.brilliantw.net/贊助資訊/#累積贊助-5000-新台幣以上回饋-建立自定義專屬個人稱號／製作專屬遊戲人偶（擇一）' },
       ]
