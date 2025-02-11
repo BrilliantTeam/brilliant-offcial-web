@@ -520,6 +520,8 @@ footer:
       <span id="times">正在載入時間...</span>
       <script src="/js/duration.js"></script>
     </div>
+    <link rel="me" href="https://www.threads.net/@ricechen__" />
+    <link rel="me" href="https://www.threads.net/@brilliant.server" />
   '
   # 展示网站的 PV、UV 统计数
   # Display website PV and UV statistics
