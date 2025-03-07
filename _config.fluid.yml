@@ -367,6 +367,7 @@ navbar:
       #{ key: '2-1. 玩家擊打', link: 'https://www.brilliantw.net/伺服守則//#2-1-玩家擊打' },
       { key: '3. 請勿偷竊破壞', link: 'https://www.brilliantw.net/伺服守則/#3-請勿偷竊破壞' },
       { key: '4. 請勿影響他人遊玩權益', link: 'https://www.brilliantw.net/伺服守則/#4-請勿影響他人遊玩權益' },
+      { key: '5. 現金交易', link: 'https://www.brilliantw.net/伺服守則/#5-現金交易' },
       #{ key: '4-1. 紅石', link: 'https://www.brilliantw.net/伺服守則/#4-1-紅石' },
       #{ key: '4-2. 子帳戶', link: 'https://www.brilliantw.net/伺服守則/#4-2-子帳戶' },
       #{ key: '4-3. 頻道使用', link: 'https://www.brilliantw.net/伺服守則/#4-3-頻道使用' },
