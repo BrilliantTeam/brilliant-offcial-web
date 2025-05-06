@@ -1135,6 +1135,12 @@ links:
       link: "https://discord.gg/rRASAz62",
       avatar: "img/mcu.png"
     }
+    - {
+      title: "小妞",
+      intro: "媒體合作夥伴",
+      link: "https://www.youtube.com/@XiaoNiu1207",
+      avatar: "img/小妞.jpg"
+    }
 
 
   # 当成员头像加载失败时，替换为指定图片
