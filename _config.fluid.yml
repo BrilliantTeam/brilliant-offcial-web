@@ -1141,6 +1141,12 @@ links:
       link: "https://www.youtube.com/@XiaoNiu1207",
       avatar: "img/小妞.jpg"
     }
+    - {
+      title: "羽嵐Arashi",
+      intro: "媒體合作夥伴",
+      link: "https://www.youtube.com/@ArashiMoon_1225",
+      avatar: "img/arashi.jpg"
+    }
 
 
   # 当成员头像加载失败时，替换为指定图片
