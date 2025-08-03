@@ -1072,8 +1072,8 @@ page:
 # 404 Page
 #---------------------------
 page404:
-  enable: true
-  banner_img: img/404.png
+  enable: false
+  banner_img: img/透明.png
   banner_img_height: 100
   banner_mask_alpha: 0.45
   # 重定向到首页的延迟(毫秒)
@@ -1231,3 +1231,4 @@ static_prefix:
   twikoo: https://lib.baomitu.com/twikoo/1.5.11/
 
   hint: https://lib.baomitu.com/hint.css/2.7.0/
+
